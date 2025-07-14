@@ -1,0 +1,591 @@
+input_row_key,selected_veridion_id,company_name,website_domain,revenue,employee_count,main_sector,qc_flags
+2,45309031-f8ab-11ed-89fe-613148a94f23,3 Step IT A/S.,3stepit.dk,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees
+2,45309031-f8ab-11ed-89fe-613148a94f23,3stepIT,3stepit.se,,,,missing or 0 revenue; missing or 0 employees; missing sector
+2,45309031-f8ab-11ed-89fe-613148a94f23,3Step IT Oy.,karei.dev,,1.0,,missing or 0 revenue; missing sector; missing geolocation
+3,45309031-f8ab-11ed-89fe-613148a94f23,3Step IT Oy.,karei.dev,,1.0,,missing or 0 revenue; missing sector; missing geolocation
+3,45309031-f8ab-11ed-89fe-613148a94f23,3stepIT,3stepit.se,,,,missing or 0 revenue; missing or 0 employees; missing sector
+3,45309031-f8ab-11ed-89fe-613148a94f23,3 Step IT A/S.,3stepit.dk,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees
+6,359bd116-93e5-11eb-b5f6-816dd10ac7b0,3 Step,3step.in,,,,missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+6,359bd116-93e5-11eb-b5f6-816dd10ac7b0,3Step IT Oy.,karei.dev,,1.0,,missing or 0 revenue; missing sector; missing geolocation
+6,359bd116-93e5-11eb-b5f6-816dd10ac7b0,3step,three-step.jp,167702.0,8.0,Education,missing geolocation
+9,272b8711-93e5-11eb-8e19-198fb02d6f96,Aalborg Hotel,aalborg-airport-hotel-norresundby.booked.net,,,Accommodation & Food Services,missing or 0 revenue; missing or 0 employees; no contact info
+9,272b8711-93e5-11eb-8e19-198fb02d6f96,Aalborg City Cup,aalborg-citycup.dk,,75.0,"Arts, Entertainment & Recreation",missing or 0 revenue
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,Acome Xintai Cables Co. Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,Orient cable,orientcable.com,10234013.0,110.0,Electronics & Appliances,missing geolocation
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,Power Plus Cable,powerpluscable.com,59550584.0,150.0,Electronics & Appliances,missing geolocation
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,Qingdao Acome Machinery Co. Ltd.,acometech.com,8348041.0,150.0,Other Capital Goods,missing geolocation
+13,1000ca72-f7d7-11ed-bb8f-e9ec1594da2e,Sunyking,sunyking.com,3517145.0,75.0,Electronics & Appliances,missing geolocation
+17,099ed3a8-1afb-11ec-a882-057f42292856,Adobe Systems Software Ireland,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+17,099ed3a8-1afb-11ec-a882-057f42292856,Adobe X 김씨네 과일,adobe-kimsfruits.com,,,,missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+18,170bf945-d904-11ec-97fb-31cc4a312a12,ADB,adbglobal.com,450000000.0,350.0,Publishers & Media Companies,missing geolocation
+18,170bf945-d904-11ec-97fb-31cc4a312a12,Advanced Eco Jet Services SA.,aejets.ch,,,Other Capital Goods,missing or 0 revenue; missing or 0 employees
+18,170bf945-d904-11ec-97fb-31cc4a312a12,HYS EVENTS,hys.at,,,Accommodation & Food Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+18,170bf945-d904-11ec-97fb-31cc4a312a12,Advanced Digital Broadcast Holdings SA.,adbholdings.com,35800000.0,,IT&C Services,missing or 0 employees; missing geolocation
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,Advanced Energy,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,Advanced Intelligent Network Sdn. Bhd.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,Advanced Security Network Sdn. Bhd.,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,Advanced Engineering Construction Sdn. Bhd.,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+19,3c9b6969-fdd5-11ef-8bcd-e7d9bf87b1c1,Advanced Network Solutions Sdn. Bhd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+20,67227e70-0e27-11ec-a16e-b9ce2504ed80,Advansia,advansia.com,5475238.0,75.0,"Agriculture, Forestry, Fishing and Hunting",missing geolocation
+20,67227e70-0e27-11ec-a16e-b9ce2504ed80,Advansia,advansia.co.id,6648736.0,75.0,Raw Materials,missing geolocation
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,AEGER Ingeniería,aeger.es,2565593.0,30.0,Architecture & Engineering Services,missing geolocation
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,Aeger Iuris,aeger.pl,,,Legal,missing or 0 revenue; missing or 0 employees
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,Aeger,,,,Construction,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+21,2d7be421-93e5-11eb-be5a-4f810ab55f2e,Aeger Creative,aeger.net,185293.0,1.0,Advertising & Marketing,missing geolocation
+22,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,Affirmed Armor,affirmedarmor.com,175243.0,1.0,"Apparel, Accessories & Footwear",missing geolocation
+22,ef392bbd-93e4-11eb-919a-b3f9a5ad205c,Affirmed Missions Inc.,affirmedmissionsinc.org,47416.0,1.0,Health Care & Social Assistance,missing geolocation
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,Rødovre Centrum,roedovrecentrum.dk,10804487.0,75.0,Other Durable Products,missing geolocation
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,Aktieselskabet Rødovre Centrum,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,Aktieselskabet Tlk Of 1971,,,,Real Estate,missing website; missing or 0 revenue; missing or 0 employees
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,Aktieselskabet Jysk Entreprise bridalstore,,,,Home Products,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+26,eab4a797-e56c-11ed-86c6-9fd2c95fb352,HAUX,haux.com,,,Food & Beverages,missing or 0 revenue; missing or 0 employees
+30,4706bd71-93e5-11eb-aa66-9b8d95e2171b,Amazon Web Services EMEA,logitech-events.com,,,Education,missing or 0 revenue; missing or 0 employees; missing geolocation
+35,e97d1f55-93e4-11eb-be3a-7f925cb94351,Analysys Mason,analysys.com,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+35,e97d1f55-93e4-11eb-be3a-7f925cb94351,Analysys Technology,analysys.tech,39072.0,2.0,IT&C Services,no contact info
+37,e85e9664-1cfd-11ed-acc3-eb8431ff4930,ANDCO A/S.,projetoeuropaclubeuropeu.blogspot.com,,,Non Profit,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+37,e85e9664-1cfd-11ed-acc3-eb8431ff4930,AndCo,andco.com.au,,,Architecture & Engineering Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,Aon Norway,,,82.0,,missing website; missing or 0 revenue; missing sector; no contact info
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,AON THAI CUISINE & TAKEAWAY,,,,Accommodation & Food Services,missing website; missing or 0 revenue; missing or 0 employees
+42,94b23b7a-a0a5-11ed-9081-2b8f862bccfc,Aon Assessment Norge,,8092206.0,58.0,Other Professional Services,missing website; no contact info
+44,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Naturliga Bloggen,naturligabloggen.blogspot.com,,15.0,Blogs & Publications,missing or 0 revenue; missing geolocation
+44,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Apple Distribution International Limited,ouspacesellers.store,,,,missing or 0 revenue; missing or 0 employees; missing sector
+44,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Apple green TRUCK AIR FOR WHEELS,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+44,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Apple Distribution International,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+44,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Android CentralAndroid,centralandroidinfo.netlify.app,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+45,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Android CentralAndroid,centralandroidinfo.netlify.app,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+45,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Apple green TRUCK AIR FOR WHEELS,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+45,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Naturliga Bloggen,naturligabloggen.blogspot.com,,15.0,Blogs & Publications,missing or 0 revenue; missing geolocation
+45,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Apple Distribution International Limited,ouspacesellers.store,,,,missing or 0 revenue; missing or 0 employees; missing sector
+45,5fb4de97-d93b-11ef-a05e-eff07b682a6a,Apple Distribution International,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,Apple Malaysia Sdn Bhd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,APPLE MM2H SDN. BHD.,applemm2h.com,516473.0,15.0,Other Professional Services,missing geolocation
+46,50c0e708-22bf-11ec-9024-ef7bc13965aa,Apple Maids,applemaids.net.my,1175261.0,75.0,Other Professional Services,missing geolocation
+54,933da790-93e4-11eb-b5f6-816dd10ac7b0,Atea Kristiansund,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees
+54,933da790-93e4-11eb-b5f6-816dd10ac7b0,Atea Finance AS,,,26.0,,missing website; missing or 0 revenue; missing sector; no contact info
+54,933da790-93e4-11eb-b5f6-816dd10ac7b0,Atea,bajaz.no,,,"Arts, Entertainment & Recreation",missing or 0 revenue; missing or 0 employees
+55,f0c60d30-93e4-11eb-91fb-73d498260b10,Atea Finance AB.,,4316539.0,27.0,Other Professional Services,missing website; no contact info; missing geolocation
+55,f0c60d30-93e4-11eb-91fb-73d498260b10,Faxe365,faxe365.com,,1.0,Blogs & Publications,missing or 0 revenue; missing geolocation
+61,90786d2c-93e4-11eb-a33a-a3dfba582839,AWAN DISTRIBUTION,awandistribution.com,128811808.0,75.0,Electronics & Appliances,missing geolocation
+61,90786d2c-93e4-11eb-a33a-a3dfba582839,ISDF,isdfuae.com,24793384.0,75.0,Electronics & Appliances,missing geolocation
+61,90786d2c-93e4-11eb-a33a-a3dfba582839,Dar Molhimon,darmolhimon.com,5061139.0,23.0,Publishers & Media Companies,missing geolocation
+61,90786d2c-93e4-11eb-a33a-a3dfba582839,Awan Building Contg LLC.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,Basico,basico.media,,,,missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,Basico P/S.,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+65,9c00c37e-6d04-11ee-b24b-eb147ec3ebc2,Basico Agencia de Eventos,basico-agencia-de-eventos.negocio.site,,,"Arts, Entertainment & Recreation",missing or 0 revenue; missing or 0 employees
+71,d88f72e3-5c67-11ed-baea-7be3329391e4,Beijing High-tech Dynamic Power Co. Ltd.,htdp.com.cn,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+71,d88f72e3-5c67-11ed-baea-7be3329391e4,Power Co. Ltd.,hnbfpower.com,19537660.0,210.0,Electronics & Appliances,missing geolocation
+71,d88f72e3-5c67-11ed-baea-7be3329391e4,Beijing Electric Power Hospital-Emergency Treatment,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+71,d88f72e3-5c67-11ed-baea-7be3329391e4,Beijing Dynamic Power Co. Ltd.,xaqylm.com,,,,missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+74,0cb674d5-93e5-11eb-aa66-9b8d95e2171b,Blackwood Academy,blackwood-academy.com,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+74,0cb674d5-93e5-11eb-aa66-9b8d95e2171b,Blackwood Seven Germany GmbH,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+74,0cb674d5-93e5-11eb-aa66-9b8d95e2171b,Blackwood Forge v Rasmus Frie,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+75,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,Blom Peter,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+75,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,Søren Ikast Pedersen - Erhvervspsykologisk Rådgivning ApS.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+75,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,Erhvervspsykologisk Rådgivning ApS.,annejacobsen.dk,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+75,1f377b2b-0c41-11ec-b09d-95ba7b1bb140,Psykologisk Rådgivning cand. psych. Manfred Franke,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+77,a80097e2-aeff-11ef-a550-45d601d5781f,Bording Central,bordingcentral.dk,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees
+77,a80097e2-aeff-11ef-a550-45d601d5781f,Bording Instore Danmark A/S.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,Braathens Regional AB.,,,21.0,Other Capital Goods,missing website; missing or 0 revenue; no contact info; missing geolocation
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,Braathens,braathens.com,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees; missing geolocation
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,BRA,flygbra.se,108016704.0,400.0,Transport & Warehousing,missing geolocation
+78,e06dbd72-5b1d-11ef-8bf4-3129dd2a123f,BRAATHENS REGIONAL AIRWAYS AB.,,,4.0,,missing website; missing or 0 revenue; missing sector; no contact info; missing geolocation
+86,57918a20-a8bb-11ed-9a6b-af642bb25f66,StayOnline,stayonline.dk,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+86,57918a20-a8bb-11ed-9a6b-af642bb25f66,CBRE Denmark,cbre.dk,46927532032.0,135000.0,Real Estate,implausibly high employee count
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,China Motion Telecom International Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,China Dragon Telecom,chinadragontel.com,13205933.0,75.0,IT&C Services,missing geolocation
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,MultiTech,multi-tech.com.hk,41029016.0,150.0,IT&C Services,missing geolocation
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,CHINA GLOBAL LINK LOGISTIC CO. LIMITED,gll-ch.com,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees
+90,26c39d80-93e5-11eb-be5a-4f810ab55f2e,China Telecom Global,chinatelecomglobal.com,2400000.0,287076.0,IT&C Services,implausibly high employee count
+95,4e8bfa9e-1afc-11ec-ba40-29b1c5bdeb83,Cisco International Limited,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+95,4e8bfa9e-1afc-11ec-ba40-29b1c5bdeb83,Cisco Systems London,cisco.co.uk,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+95,4e8bfa9e-1afc-11ec-ba40-29b1c5bdeb83,Cisco Blue,ciscoblue.co.uk,7168688.0,15.0,Construction,no contact info; missing geolocation
+95,4e8bfa9e-1afc-11ec-ba40-29b1c5bdeb83,Cisco repair services,cisco-repair.co.uk,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+95,4e8bfa9e-1afc-11ec-ba40-29b1c5bdeb83,Cisco International,ciscointl.com,,,,missing or 0 revenue; missing or 0 employees; missing sector
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,Adorea Systems,adoreasystems.com,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,Seliyan Com. Engineering,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,COMENGINEERING SDN BHD.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+101,eb823b24-1e9c-11ee-918e-3b99085851a3,COM Engineering Ltd.,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+102,8014aae6-1b04-11ec-a26e-73bd9076b4de,CommScope Solutions S Pte Ltd.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+102,8014aae6-1b04-11ec-a26e-73bd9076b4de,CommScope,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+102,8014aae6-1b04-11ec-a26e-73bd9076b4de,CommScope APAC,commscopeapacmerchandise.com,18512304.0,75.0,Other Nondurable Products,missing geolocation
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,Commscope Technologies Ag,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,CommScope,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,CommScope Wireless Systems AG,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+103,ff338e8e-b929-11ed-89f1-bd62b3e1c745,CommScope,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+104,7e64da92-e11e-11ec-b909-77b33c15dd42,Commscope Technologies South Africa Pty Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+104,7e64da92-e11e-11ec-b909-77b33c15dd42,CommScope,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+104,7e64da92-e11e-11ec-b909-77b33c15dd42,Commscope Technologies K Ltdtd,commscope-ea.com,569635.0,75.0,IT&C Services,missing geolocation
+104,7e64da92-e11e-11ec-b909-77b33c15dd42,CommScope,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+104,7e64da92-e11e-11ec-b909-77b33c15dd42,CommScope Technologies Philippines Inc.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,Conscia Danmark A/S.,laugesen.io,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees; missing geolocation
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,Conscia Moments,conscia.dk,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,SJEC,sjecdanmark.dk,,,Other Capital Goods,missing or 0 revenue; missing or 0 employees
+106,33c93c45-a7e0-11ef-af89-216a077ca7fb,Conscia Holdco A/S.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,M&A Corporate Advisors,ma-advisors.no,2585577.0,4.0,Finance & Insurance,no contact info
+108,e48e4e11-93e4-11eb-919a-b3f9a5ad205c,Corporate Cup Norway,corporatecup.no,,,"Arts, Entertainment & Recreation",missing or 0 revenue; missing or 0 employees; missing geolocation
+110,d6c603ec-93e4-11eb-b997-8dd98d09cf25,Coursera,malojabrd.top,,,Education,missing or 0 revenue; missing or 0 employees
+110,d6c603ec-93e4-11eb-b997-8dd98d09cf25,Coursera,cozycomfort.top,,,Education,missing or 0 revenue; missing or 0 employees
+110,d6c603ec-93e4-11eb-b997-8dd98d09cf25,Coursera,kidlove.top,,,Education,missing or 0 revenue; missing or 0 employees
+110,d6c603ec-93e4-11eb-b997-8dd98d09cf25,Coursera Inc.,translate-coursera.org,,,Legal,missing or 0 revenue; missing or 0 employees; no contact info
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Crayon A/S.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Crayon Danmark Inactive,,,3.0,,missing website; missing or 0 revenue; missing sector; no contact info
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Crayon,crayonweb.azurewebsites.net,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Crayon Bogføring,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+111,b9ebf60e-f3c1-11ed-afbd-cd002aee0352,Crayon Cloud Day 2018,crayoncloudday.dk,,,,missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+119,a11480ae-2a2a-11ef-917e-edda38f44563,Daily Jurr'at,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+119,a11480ae-2a2a-11ef-917e-edda38f44563,Print Ustad,printustad.co.uk,,,Other Nondurable Products,missing or 0 revenue; missing or 0 employees; missing geolocation
+119,a11480ae-2a2a-11ef-917e-edda38f44563,Sonu Car Wrap,sonucarwrap.com,23261.0,15.0,Other Consumer Services,missing geolocation
+119,a11480ae-2a2a-11ef-917e-edda38f44563,Gorila Products,gorilaproducts.com,,,Other Nondurable Products,missing or 0 revenue; missing or 0 employees; missing geolocation
+119,a11480ae-2a2a-11ef-917e-edda38f44563,Daily Dunya,dunya.com.pk,1000000.0,75.0,Publishers & Media Companies,missing geolocation
+120,070edae0-93e5-11eb-b4a6-27899be4e45d,Dansk Overpumpning,danskoverpumpning.dk,,,Other Capital Goods,missing or 0 revenue; missing or 0 employees
+120,070edae0-93e5-11eb-b4a6-27899be4e45d,Auto Logik,autologik.dk,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees
+126,8647efa3-93e4-11eb-90d2-e3355a7e800b,Delfi Imaging Consult I/S.,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees
+126,8647efa3-93e4-11eb-90d2-e3355a7e800b,Delfi e.V.,delfi.de,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees
+126,8647efa3-93e4-11eb-90d2-e3355a7e800b,Delfi Coaching v Ditte Hørmark,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees
+140,c2b35013-93e4-11eb-b997-8dd98d09cf25,U Mobile Shah Alam,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+140,c2b35013-93e4-11eb-b997-8dd98d09cf25,DIGI TELECOMMUNICATIONS SDN BHD Terengganu,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+140,c2b35013-93e4-11eb-b997-8dd98d09cf25,DLA Technology,dlatech.com.my,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+140,c2b35013-93e4-11eb-b997-8dd98d09cf25,Digi Sage,digisage.win,,,Publishers & Media Companies,missing or 0 revenue; missing or 0 employees; no contact info
+143,08e683e0-1827-11ee-b0e3-d3f35f2a4259,DNA tester,dnatester.fi,11813433.0,75.0,Health Care & Social Assistance,missing geolocation
+143,08e683e0-1827-11ee-b0e3-d3f35f2a4259,DNA Toimihenkilöt Pro ry,dnatoimihenkilot.fi,2358300.0,15.0,Non Profit,missing geolocation
+143,08e683e0-1827-11ee-b0e3-d3f35f2a4259,DNA Oy.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+143,08e683e0-1827-11ee-b0e3-d3f35f2a4259,DNA Ltd.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,DXC Technology Norge AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,DXC ServiceNow Practice Norway,,11000000.0,25.0,IT&C Services,missing website
+148,d3ccacb0-a3ce-11ed-b93a-8509659c73d1,DXC,dxcfds.com,419372544.0,1100.0,IT&C Services,missing geolocation
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,DXC Technology Sverige AB.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,DXC,dxcfds.com,419372544.0,1100.0,IT&C Services,missing geolocation
+149,f19d20b5-250a-11ec-b70f-ed0ff919fa1a,DXC Consulting,dxcconsulting.se,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+150,6fef3cc3-499f-11ee-955d-cffc14e1ac7f,Munchworld Marketing Sdn. Bhd. Johor,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+150,6fef3cc3-499f-11ee-955d-cffc14e1ac7f,Dynamic Telecommunication,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+150,6fef3cc3-499f-11ee-955d-cffc14e1ac7f,Dynamic Tele Communication,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+150,6fef3cc3-499f-11ee-955d-cffc14e1ac7f,Dynamic Telecommunication,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Eastcompeace,eastcompeace.com,218800000.0,200.0,Finance & Insurance,no contact info; missing geolocation
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Easy Card,easycard.com.bd,,,,missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Eastcompeace,worldclasslighting.com,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Baby Care,babycare.com.bd,382575.0,75.0,"Apparel, Accessories & Footwear",missing geolocation
+152,203f5ad6-b918-11ed-bc6c-cde58c4dffa0,Eastcompeace Smart Card Bangladesh Limited.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+155,2b50edd1-93e5-11eb-a746-fdabd18be9c6,Management Doctors,managementdoctors.se,366808.0,2.0,Other Professional Services,missing geolocation
+155,2b50edd1-93e5-11eb-a746-fdabd18be9c6,Office Management,avoki.com,14000000.0,,IT&C Services,missing or 0 employees
+156,2b50edd1-93e5-11eb-a746-fdabd18be9c6,Office Management,avoki.com,14000000.0,,IT&C Services,missing or 0 employees
+156,2b50edd1-93e5-11eb-a746-fdabd18be9c6,Management Doctors,managementdoctors.se,366808.0,2.0,Other Professional Services,missing geolocation
+163,c3be3d54-b6b6-11ef-b840-cd317407a6a9,eGeneration Limited,coronavirus.pages.dev,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+163,c3be3d54-b6b6-11ef-b840-cd317407a6a9,E-Generation,entrepreneurgeneration.com,,13.0,Education,missing or 0 revenue; missing geolocation
+163,c3be3d54-b6b6-11ef-b840-cd317407a6a9,WebQ1,webq1.com.au,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; missing geolocation
+163,c3be3d54-b6b6-11ef-b840-cd317407a6a9,Egeneration,egeneration.com.bd,,,"Arts, Entertainment & Recreation",missing or 0 revenue; missing or 0 employees; missing geolocation
+169,cca5a50b-a725-11ef-992e-0bf06164345a,Enreach Campaigns,enreachcampaigns.com,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; no contact info
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,Ericsson AS,epignosis.no,,,Architecture & Engineering Services,missing or 0 revenue; missing or 0 employees; no contact info
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,Ericsson transport & logistikk AS,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,Ericsson,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+173,ff083300-a7b5-11ed-bec3-afeedabcf530,Ericsson by Nordrest,ericssonbynordrest.se,,,Accommodation & Food Services,missing or 0 revenue; missing or 0 employees
+184,77d7b182-a440-11ed-98da-09eff5c31f9c,Exide Technologies A/S.,exide.dk,,,,missing or 0 revenue; missing or 0 employees; missing sector
+184,77d7b182-a440-11ed-98da-09eff5c31f9c,Exide Technologies avd Bergen,sonnak.com,,,,missing or 0 revenue; missing or 0 employees; missing sector
+184,77d7b182-a440-11ed-98da-09eff5c31f9c,Exide technologies AS avd Stavanger,exide-nordic.com,,1.0,,missing or 0 revenue; missing sector; no contact info; missing geolocation
+187,7657825a-70c8-11ed-b7c2-39c75d5cc1e9,F5 Photography Limited,f5blog.co.uk,65188.0,1.0,Other Consumer Services,missing geolocation
+187,7657825a-70c8-11ed-b7c2-39c75d5cc1e9,F5 Networks Limited,vtsupplyffl.com,,,"Arts, Entertainment & Recreation",missing or 0 revenue; missing or 0 employees
+187,7657825a-70c8-11ed-b7c2-39c75d5cc1e9,F5 Networks Limited,french-language-courses.org,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+187,7657825a-70c8-11ed-b7c2-39c75d5cc1e9,F5 Networks Inc.,couponannie.co.uk,,1.0,,missing or 0 revenue; missing sector; no contact info; missing geolocation
+189,bdc409a2-93e4-11eb-be3a-7f925cb94351,Falck Fire Services UK Ltd.,falck.uk,111000.0,160.0,Health Care & Social Assistance,missing geolocation
+189,bdc409a2-93e4-11eb-be3a-7f925cb94351,Lolland-Falster Brandvæsen,lfbv.dk,3025755.0,20.0,Government,no contact info
+195,44240fe3-93e5-11eb-919a-b3f9a5ad205c,Form First,formfirst.app,,2.0,IT&C Services,missing or 0 revenue; no contact info
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,Horn Gartner As,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+198,21d91ebf-1b00-11ec-a8e8-f10d0988514b,Gartner Norge,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+203,952db7cc-93e4-11eb-91fb-73d498260b10,K&L Global Connect,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+203,952db7cc-93e4-11eb-91fb-73d498260b10,GlobalConnect,globalconnect.dk,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+203,952db7cc-93e4-11eb-91fb-73d498260b10,GlobalConnect,globalconnect.support,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+203,952db7cc-93e4-11eb-91fb-73d498260b10,Erinko Global Connect Limited,erinkoglobal.com,,,Food & Beverages,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+207,99e409e0-0769-11f0-9c21-f53b46118486,The Ecovillage at Currumbin,villagehub.com.au,,,Accommodation & Food Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+207,99e409e0-0769-11f0-9c21-f53b46118486,Google Asia Pacific Pte. Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+207,99e409e0-0769-11f0-9c21-f53b46118486,eLoan Canada,eloancanada.com,,3.0,Finance & Insurance,missing or 0 revenue; missing geolocation
+207,99e409e0-0769-11f0-9c21-f53b46118486,Google Asia Pacific Pte. Ltd.,duoi625maxim.com,,,Publishers & Media Companies,missing or 0 revenue; missing or 0 employees; no contact info
+207,99e409e0-0769-11f0-9c21-f53b46118486,Google Asia Pacific Pte.,financecrush.com,,1.0,Finance & Insurance,missing or 0 revenue; missing geolocation
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,TOTP Authenticator,authtwofa.cc,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,Google Commerce,newsfood.online,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+209,be55a775-c4b2-11ec-af9f-718ab7b26330,Google Commerce Limited,lespotnoir.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+220,bb79f296-93e4-11eb-86dd-ffbd1b53140e,Help Link Psychologist Center | private Psychologist,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees
+220,bb79f296-93e4-11eb-86dd-ffbd1b53140e,Help line To Help Hlth,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+223,19b24740-93e5-11eb-aa66-9b8d95e2171b,HEST OG MENNESKE HILDEGUNN INNBJØR,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+223,19b24740-93e5-11eb-aa66-9b8d95e2171b,Hesta,hesta.sk,,,Building Products,missing or 0 revenue; missing or 0 employees
+223,19b24740-93e5-11eb-aa66-9b8d95e2171b,Hest IT ANS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,HP Service Center | Hewlett-Packard,hp-service.kz,1872444.0,75.0,Other Professional Services,missing geolocation
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,Hewlett Packard Sales m Sdn. Bhd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,Hewlett-Packard Multimedia Sdn Bhd.,,,,Other Nondurable Products,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+225,c4a8edac-a10f-11ed-8865-3b27972b8eff,Hewlett-Packard M Sdn. Bhd.,,,,Electronics & Appliances,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,HPE Decoded,hpedecoded.dk,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,Slovenská pošta a.s. SP a.s.,vpeniaze.sk,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,Hewlett-Packard ApS.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+227,571d319b-1e68-11ee-8977-f9df9a4bf47f,Hewlett-Packard Omen,hpstore.cn,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,HP Service Center | Hewlett-Packard,hp-service.kz,1872444.0,75.0,Other Professional Services,missing geolocation
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,Slovenská pošta a.s. SP a.s.,vpeniaze.sk,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,Hewlett-Packard Sverige AB.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+230,4676a351-f930-11ed-b4e8-cf8e051b3eab,Hewlett-Packard Omen,hpstore.cn,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+231,793e4ef1-0a2f-11ec-b812-9b4eceb9b5f7,HighTouch Remodeling,,,,Construction,missing website; missing or 0 revenue; missing or 0 employees
+231,793e4ef1-0a2f-11ec-b812-9b4eceb9b5f7,High touch Inc.,hightouch.vc,5972148.0,75.0,Pharmaceuticals & Cosmetics,missing geolocation
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,HP Inc Denmark ApS.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+235,e861f812-cf3e-11ed-a9e6-41f52173ea03,Incon Danmark ApS.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,HP Communication Sales & Services,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,Carco,carco.com.my,,,Automotive,missing or 0 revenue; missing or 0 employees; missing geolocation
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,HP PPS Sales Sdn Bhd.,hp-aipcvideocontest.com,,,Publishers & Media Companies,missing or 0 revenue; missing or 0 employees; no contact info
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,Inter-Pacific Securities,interpac.com.my,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees; missing geolocation
+237,d5c3fb2e-a8c9-11ef-9c3c-1f32e3c7982a,PERODUA PANDAN PRIMA,peroduapandanprima.com,,,Automotive,missing or 0 revenue; missing or 0 employees; missing geolocation
+244,fea798e2-1afc-11ec-9308-05476ec24aab,Ubi services,ubi-services.eu,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+244,fea798e2-1afc-11ec-9308-05476ec24aab,HUAWEI,huawei.com,99599998976.0,207272.0,Other Durable Products,implausibly high employee count; missing geolocation
+244,fea798e2-1afc-11ec-9308-05476ec24aab,Huawei Technologies Norway AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+244,fea798e2-1afc-11ec-9308-05476ec24aab,Inspire nettside,inspirebioslo.no,,4.0,,missing or 0 revenue; missing sector
+244,fea798e2-1afc-11ec-9308-05476ec24aab,Huawei Norge,,30690032.0,33.0,IT&C Services,missing website; no contact info
+247,7d5aecb0-1b05-11ec-88d5-df9161de908b,Huber Suhner A/S.,,,,Electronics & Appliances,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+247,7d5aecb0-1b05-11ec-88d5-df9161de908b,Huber & Suhner Pty Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+248,30069d60-1403-11ec-a8a5-7542bec9389d,Huber & Suhner Pty Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+248,30069d60-1403-11ec-a8a5-7542bec9389d,Huber Suhner A/S.,,,,Electronics & Appliances,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+254,33e93227-8a9a-11ec-8f0a-eb02b2415b08,Idemia,cfdt-idemia.fr,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+254,33e93227-8a9a-11ec-8f0a-eb02b2415b08,IDEMIA,id06idemia.com,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees
+254,33e93227-8a9a-11ec-8f0a-eb02b2415b08,IDEMIA France SAS.,bioscrypt.com,2600000000.0,,Other Professional Services,missing or 0 employees; no contact info
+260,017feb65-f8ab-11ed-8629-7d5d4c8e5628,INFINERA CORP,infinerac.xyz,,,,missing or 0 revenue; missing or 0 employees; missing sector
+260,017feb65-f8ab-11ed-8629-7d5d4c8e5628,Infinera Corporation,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+260,017feb65-f8ab-11ed-8629-7d5d4c8e5628,Infinera America,infineraamerica.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+260,017feb65-f8ab-11ed-8629-7d5d4c8e5628,Infinera Agribusiness,infineraagribusiness.com,998824.0,75.0,"Agriculture, Forestry, Fishing and Hunting",missing geolocation
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,Infosys Limited,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,Infosys Limited Hubli,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+262,dcc5e190-22df-11ec-817c-6169a8cec47d,Infosys Limited Mysore,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+266,99015501-93e4-11eb-b4a6-27899be4e45d,Altegrity Risk International,altegrityrisk.com,600000000.0,100.0,Other Professional Services,missing geolocation
+267,e18a529e-c953-11ec-9dcb-d78f7d7b3075,InTouch Fashion Inc.,intouchfashioninc.com,,,"Apparel, Accessories & Footwear",missing or 0 revenue; missing or 0 employees
+267,e18a529e-c953-11ec-9dcb-d78f7d7b3075,Insight Truck & Trailer Inc.,,,,Other Consumer Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,Ipsos Malaysia,,,350.0,Advertising & Marketing,missing website; missing or 0 revenue; no contact info; missing geolocation
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,Alexandra Apartments Ipsos Corfu,ipsos-corfu.com,1251209.0,15.0,Real Estate,missing geolocation
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,Ipsos Sdn Bhd.,,,,Advertising & Marketing,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+271,dff13de7-1afd-11ec-a31a-a7a88bbb321b,Ipsos,ipsos.com.my,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,White Signature,whitesignature.be,,,Accommodation & Food Services,missing or 0 revenue; missing or 0 employees
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,ISS Facility Services Ltd.,frontend-issworld-demo.vercel.app,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,ISS Facility Services A/S.,iss.dk,,,,missing or 0 revenue; missing or 0 employees; missing sector
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,ISS Facility Services Phil's. Inc - Carmona Satellite Office,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+272,bc31b560-15e2-11ef-8bc6-955a884bfcce,ISS,issworld.com,10049793024.0,378946.0,Other Professional Services,implausibly high employee count; missing geolocation
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,ISS Faciliy Services AB.,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,ISS Facility Services Phil's. Inc - Carmona Satellite Office,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,ISS Facility Services AB.,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+273,4cf5285b-27d1-11ef-bd6f-218060e3190a,ISS Facility Services AB Älvsjö Älderboende,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+274,efbe1611-263f-11ec-b5b4-bfd9daeb9f18,ISS Facility Services Norge,,,550.0,,missing website; missing or 0 revenue; missing sector; no contact info
+274,efbe1611-263f-11ec-b5b4-bfd9daeb9f18,ISS Facility Services AS Avd.Eiendomsdrift Østfold og Follo,iss.no,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+274,efbe1611-263f-11ec-b5b4-bfd9daeb9f18,Iss Facility Services As Avd Renhold Tromsø,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+274,efbe1611-263f-11ec-b5b4-bfd9daeb9f18,ISS Facility services avd. Skadeservice,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+274,efbe1611-263f-11ec-b5b4-bfd9daeb9f18,ISS Facility Services AS,kantinebetaling.no,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+280,117f0e3f-9c88-11ef-8bab-03376d671938,JLL,novaseacats.org,,,Real Estate,missing or 0 revenue; missing or 0 employees; missing geolocation
+280,117f0e3f-9c88-11ef-8bab-03376d671938,JLL CORPORATE SOLUTIONS AB.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+280,117f0e3f-9c88-11ef-8bab-03376d671938,JLL,jll.pe,,,Real Estate,missing or 0 revenue; missing or 0 employees
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,Jones Lang Lasalle Property Consultants Pte. Ltd.,,,,Real Estate,missing website; missing or 0 revenue; missing or 0 employees
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,JLL,jll.co.uk,12965894144.0,116500.0,Real Estate,implausibly high employee count
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,Jones Lang LaSalle Residential Pte. Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+284,a0c7c82f-a62d-11ed-b2cd-53de41d2c5f2,JLL,jll.com.sg,2006929280.0,10500.0,Real Estate,missing geolocation
+292,4c8d1142-f9ea-11ee-a764-51dde681169c,Kinnarps as,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+293,db8d8f95-f669-11ed-a149-9b392686bc00,KLM Royal Dutch Airlines,klm.no,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+293,db8d8f95-f669-11ed-a149-9b392686bc00,Foretak Claire retail norsk avdeling Av utenlandsk,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+293,db8d8f95-f669-11ed-a149-9b392686bc00,KLM Royal Dutch Airlines,klm.co.tz,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+293,db8d8f95-f669-11ed-a149-9b392686bc00,KLM,klm.ch,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+293,db8d8f95-f669-11ed-a149-9b392686bc00,Foretak. KLM-Royal Dutch Airlines filial Av utenlandsk,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees
+297,48005fb1-93e5-11eb-8474-3bbe2d07207d,Sartorvet,sartorvet.com,,,Food & Beverages,missing or 0 revenue; missing or 0 employees
+297,48005fb1-93e5-11eb-8474-3bbe2d07207d,NH3 Kølegruppen,nh3koelegruppen.dk,,,Construction,missing or 0 revenue; missing or 0 employees
+302,76c8a6a0-93e4-11eb-b89f-536884b3e7dd,Miljøretlig Forskningsportal MRF,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+302,76c8a6a0-93e4-11eb-b89f-536884b3e7dd,Kromann Reumert Law Firm,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+302,76c8a6a0-93e4-11eb-b89f-536884b3e7dd,Reumert,aaretsreumert.dk,,,"Arts, Entertainment & Recreation",missing or 0 revenue; missing or 0 employees; missing geolocation
+307,87a7dad6-cd82-11ec-b775-d339108ca9d0,Telugukavithalugalgala,telugukavithalugalgala.wordpress.com,,,,missing or 0 revenue; missing or 0 employees; missing sector
+307,87a7dad6-cd82-11ec-b775-d339108ca9d0,LinkedIn Alumni,linkedinalumninetwork.com,,,,missing or 0 revenue; missing or 0 employees; missing sector
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,Ericsson,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,LM Ericsson Bangladesh Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,Kungstornen,kungstornen.se,,,Real Estate,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+309,8fc467df-1b06-11ec-a68d-499e0c2c3a34,LM Ericsson,nic-ericsson.pages.dev,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+316,49eaca92-93e5-11eb-a33a-a3dfba582839,Førstemann sykkelbud,forstemann.com,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,MAVENIR SYSTEMS d.o.o.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,Mavenir Systems Inc.,postsell.trade,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; missing geolocation
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,Mavenir Systems Pvt Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+320,8a8769f3-f8b6-11ed-9214-3d96876bd85b,Mavenir Systems AB.,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,Media Idee,mediaidee.com,7800000.0,22.0,Advertising & Marketing,missing geolocation
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,Cricket Pakistan,cricketpakistan.com.pk,120772.0,15.0,"Arts, Entertainment & Recreation",missing geolocation
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,ZariBunty,zaribunty.com,44940.0,8.0,Publishers & Media Companies,missing geolocation
+324,37de0385-e6d6-11ed-8bb1-3d6aecbca671,Media Times Ltd.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,Microsoft Ireland Dream Space,,,6.0,,missing website; missing or 0 revenue; missing sector; no contact info
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,Microsoft Ireland Operations,nowubuy.shop,,,"Apparel, Accessories & Footwear",missing or 0 revenue; missing or 0 employees; missing geolocation
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,SOS DPO,sos-dpo.com,,,,missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,Microsoft Entra ID,microsotfoline.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+327,146bd77c-4d69-11ed-b869-0b9c3de59569,Microsoft Ireland,microsoftireland.info,,,,missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+333,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,Mnemonic,mnemonic.pt,146115.0,2.0,Architecture & Engineering Services,missing geolocation
+333,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,Basic FlashCards,basicflashcards.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+333,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,Mnemonic,mnemonic.no,52703344.0,241.0,IT&C Services,no contact info; missing geolocation
+333,b86d48c0-b500-11ec-92c5-7f4ee7009bc8,Mnemonic As A Service,mnemonic-as-a-service.com,,1.0,IT&C Services,missing or 0 revenue; missing geolocation
+334,a112cce1-0fd4-11ec-bad9-ebcc1813e8d3,mobile people Norway AS,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+334,a112cce1-0fd4-11ec-bad9-ebcc1813e8d3,Mobile People Bemanning AB.,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+334,a112cce1-0fd4-11ec-bad9-ebcc1813e8d3,Mobile people,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,Teratai Agriculture,tapoultry.com,,,"Agriculture, Forestry, Fishing and Hunting",missing or 0 revenue; missing or 0 employees
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,Teratai spa & beauty centre,terataibeautyspa.weebly.com,113544.0,15.0,"Arts, Entertainment & Recreation",missing geolocation
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,Mustika Teratai Sdn. Bhd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,Teratai Tenang Hotel & Homestay,,,,Accommodation & Food Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+338,b67a2282-e926-11ed-bb20-d929ca7b3418,Mustika Agro Sdn Bhd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+339,227b170c-12dc-11ec-9dca-f567cb1bbc98,Nagarro AG,scada-xsight.de,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+339,227b170c-12dc-11ec-9dca-f567cb1bbc98,Nagarro,nagarro-clone.vercel.app,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+341,340e57ef-e0c1-11ee-bdaf-e5b5303a8710,NEC Corporation NEC Gunma Branch,,,,Electronics & Appliances,missing website; missing or 0 revenue; missing or 0 employees
+341,340e57ef-e0c1-11ee-bdaf-e5b5303a8710,NEC Corporation NEC Kofu Branch,,,,Electronics & Appliances,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+341,340e57ef-e0c1-11ee-bdaf-e5b5303a8710,NEC Platforms Corporation East Japan Branch,,,,Electronics & Appliances,missing website; missing or 0 revenue; missing or 0 employees
+341,340e57ef-e0c1-11ee-bdaf-e5b5303a8710,NEC Corporation of Malaysia,nec.com,26541574144.0,114714.0,IT&C Services,implausibly high employee count
+341,340e57ef-e0c1-11ee-bdaf-e5b5303a8710,NEC Corporation mae,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,Intellectual Property Corporation of Malaysia MyIPO,myipo.gov.my,42000.0,28.0,Government,missing geolocation
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,NEC Corporation Of Malaysia Sdn. Bhd.,,26825816.0,240.0,IT&C Services,missing website; missing geolocation
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,Intellectual Property Corporation Of Malaysia,iponline2u.myipo.gov.my,2240867.0,75.0,Legal,missing geolocation
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,NEC Corporation of Malaysia,nec.com,26541574144.0,114714.0,IT&C Services,implausibly high employee count
+342,24db63d1-8aa4-11ec-9150-8d453a1e7910,UNISON GPT Exchange,unison-corporation.com,224481.0,3.0,Finance & Insurance,no contact info
+346,a19f2484-93e4-11eb-b4a6-27899be4e45d,NERA S.A.S.,qfs-nera-sas.negocio.site,,,"Agriculture, Forestry, Fishing and Hunting",missing or 0 revenue; missing or 0 employees; missing geolocation
+347,83ad4797-93e4-11eb-97db-273ba5953680,Nestor Cables Baltics OÜ,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,SES,ses.com,2146417664.0,2294.0,IT&C Services,missing geolocation
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,New Skies Satellites B.V.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+351,1238cd68-9cd4-11ef-b56b-31d2bc338e4f,New Skies Satellites Singapore B.V.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Nexcom,nexcomgrupo.com.br,411279.0,16.0,Advertising & Marketing,missing geolocation
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Nexcom,nexcom1.net,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Nexcom,nex.com.co,,20.0,,missing or 0 revenue; missing sector
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Nexcom A/S.,nexcom.dk,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+353,4e2b08a3-a477-11ed-8bb2-9375f2c4b1be,Nexcom,nexcom.us,,,,missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,Nokia Siemens Networks Norge AS,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+357,5c494e9a-1b04-11ec-b160-7721fd8862eb,Nokia solutions And Networks Norge AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,Solar Water Solutions,solarwatersolutions.fi,,,Resources & Energy,missing or 0 revenue; missing or 0 employees
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,Nokia Oyj,,1400000.0,87927.0,IT&C Services,missing website
+358,d3b679f6-93e4-11eb-b89f-536884b3e7dd,Nokia Solutions and Networks,nokiasiemensnetworks.com,,,,missing or 0 revenue; missing or 0 employees; missing sector
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,Nordic Computer Systems,nordiccomputers.net,180587.0,1.0,Other Professional Services,missing geolocation
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,Nordic Computer København,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,Nestaan Nordic,nestaan-nordic.com,,,Raw Materials,missing or 0 revenue; missing or 0 employees
+360,affc63f0-0394-11ed-9b1b-6d2c9309a5b2,Nordic Computer,nordiccomputer.com,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+361,8449aea3-93e4-11eb-86dd-ffbd1b53140e,Nordix Group AS,nordixgrp.no,,,Real Estate,missing or 0 revenue; missing or 0 employees
+361,8449aea3-93e4-11eb-86dd-ffbd1b53140e,Nordix,nordix.gg,588474.0,1.0,"Arts, Entertainment & Recreation",missing geolocation
+361,8449aea3-93e4-11eb-86dd-ffbd1b53140e,Nordix Catering,nordixcatering.no,,,Accommodation & Food Services,missing or 0 revenue; missing or 0 employees
+372,d9669f7b-93e4-11eb-91fb-73d498260b10,Okamba lounge,,,,Accommodation & Food Services,missing website; missing or 0 revenue; missing or 0 employees
+372,d9669f7b-93e4-11eb-91fb-73d498260b10,OK A.M.B.A. O - Vej,,,,Resources & Energy,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+372,d9669f7b-93e4-11eb-91fb-73d498260b10,OK a.m.b.a,ok.dk,78489800.0,1100.0,Other Consumer Services,no contact info
+376,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,Omega Instrumatik Limited,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+376,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,Omega Style Limited,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+376,1e65962d-93e5-11eb-b5f6-816dd10ac7b0,Omega Exim Limited-Human Resources,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+377,56287c74-2509-11ec-bde8-71cf682bd51e,Omnicom Media Group AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+377,56287c74-2509-11ec-bde8-71cf682bd51e,Omnicom Media Group,,,,Advertising & Marketing,missing website; missing or 0 revenue; missing or 0 employees
+377,56287c74-2509-11ec-bde8-71cf682bd51e,OMG Nest,omgnest.com,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees
+377,56287c74-2509-11ec-bde8-71cf682bd51e,OMG Media Accelerator,omgmediaaccelerator.com,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; missing geolocation
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,Omnicom PR Group Singapore,,7000000.0,44.0,Advertising & Marketing,missing website; no contact info
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,Resolution Media Omnicom Media Group,,,,Advertising & Marketing,missing website; missing or 0 revenue; missing or 0 employees
+378,c1a538ea-8a9a-11ec-a4f2-5511448670fd,Omnicom Media Group Asia Pacific,,,100.0,,missing website; missing or 0 revenue; missing sector
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,Kasan Corporation M Sdn Bhd.,kasan.com.my,7939575.0,125.0,Raw Materials,missing geolocation
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,SME Corp. Malaysia,smecorp.gov.my,,150.0,Government,missing or 0 revenue; missing geolocation
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,Tdata Corporation Malaysia Sdn. Bhd.,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,Oracle,oracle.com,52960002048.0,159000.0,IT&C Services,implausibly high employee count
+382,cd9b9c12-1b00-11ec-aa6a-03cd9b476476,Oracle Corporation Sdn. Bhd.,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,Oracle Konsulent,oraclekonsulent.dk,,1.0,Blogs & Publications,missing or 0 revenue; no contact info; missing geolocation
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,Oracle DBA DK,oracle-dba.dk,243643.0,1.0,IT&C Services,missing geolocation
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,Oracle Danmark,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+383,870eb57e-1b04-11ec-98ad-4b5172a2ed18,ORACLE Project,oracle-jp.eu,,,Raw Materials,missing or 0 revenue; missing or 0 employees
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,OUGN,ougn.no,1884186.0,6.0,Non Profit,missing geolocation
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,Oracle Norge AS,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,Data Basis,databasis.no,310522.0,1.0,IT&C Services,missing geolocation
+384,147df165-1b04-11ec-9b02-8dfd4ec6ef01,Oracle Clinic,oracleclinics.com,,,Health Care & Social Assistance,missing or 0 revenue; missing or 0 employees; missing geolocation
+388,14907f20-93e5-11eb-a736-0f5b20ecb2f1,SSGFC DISSOLUTION,ssgfcbondholder.com,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees; missing geolocation
+388,14907f20-93e5-11eb-a736-0f5b20ecb2f1,Mr.OWhistle,mrowhistle.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+388,14907f20-93e5-11eb-a736-0f5b20ecb2f1,TABLE ROCK CAPITAL,tablerockcapital.wordpress.com,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+389,cd85b2eb-93e4-11eb-b5f6-816dd10ac7b0,P 1security,p-1security.com,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+389,cd85b2eb-93e4-11eb-b5f6-816dd10ac7b0,P 1 Security serv inc.,p1security.org,39617.0,1.0,Other Professional Services,no contact info; missing geolocation
+391,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,Pakistan society of safety engineers,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+391,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,Pakistan Institute of Nuclear Science & Technology,,88885.0,20.0,Other Professional Services,missing website; no contact info; missing geolocation
+391,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,PINSTECH,sidnlps.org.pk,126519.0,75.0,Publishers & Media Companies,missing geolocation
+391,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,PINSTECH Colony,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+391,09d8b5fe-ecdb-11ee-96d4-63842c7d9e5f,Pakistan Academy of Letters,writers.pal.gov.pk,,,Publishers & Media Companies,missing or 0 revenue; missing or 0 employees; missing geolocation
+393,b398bc50-93e4-11eb-be3a-7f925cb94351,Pelatro,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+393,b398bc50-93e4-11eb-be3a-7f925cb94351,Aspects of History,aspectsofhistory.com,205125.0,1.0,Publishers & Media Companies,missing geolocation
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,Posten Norge As Notodden,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,Posten Bring AS Molde Terminal,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+402,42c3ecf7-1d65-11ee-9df5-e543427f87fa,Posten Norge AS Frimerketjenesten,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+404,d330a82b-93e4-11eb-86dd-ffbd1b53140e,PostNord AB TPL,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees
+404,d330a82b-93e4-11eb-86dd-ffbd1b53140e,PostNord Sverige AB.,postnord-express.com,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees; no contact info
+404,d330a82b-93e4-11eb-86dd-ffbd1b53140e,PostNord Stralfors,stralfors.com,218000000.0,640.0,IT&C Services,missing geolocation
+404,d330a82b-93e4-11eb-86dd-ffbd1b53140e,Strålfors,stralfors.se,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees
+404,d330a82b-93e4-11eb-86dd-ffbd1b53140e,PostNord,stralfors.dk,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees
+405,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,Statsautoriseret Revisionsanpartsselskab Thomas Viscovich,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+405,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,Pricewaterhousecoopers Statsautoriseret Revisionspartnerselskab,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+405,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,ECOVIS Danmark State Authorized Public Accountants,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees
+405,c2d2c772-e602-11ed-aaf1-a9bb6aa25f65,Revisionsfirmaet Claus Witt Statsautoriseret Revisor,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees
+406,c9fff632-b92f-11ed-9c54-a9ebd1a1f32a,PWC - PricewaterhouseCoopers Accounting,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees
+406,c9fff632-b92f-11ed-9c54-a9ebd1a1f32a,PricewaterhouseCoopers AS,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+406,c9fff632-b92f-11ed-9c54-a9ebd1a1f32a,PricewaterhouseCoopers Norway,pwcmisconduct.com,,30.0,Blogs & Publications,missing or 0 revenue
+406,c9fff632-b92f-11ed-9c54-a9ebd1a1f32a,PwC South Africa,pwc.co.za,3300000.0,364000.0,Finance & Insurance,implausibly high employee count
+406,c9fff632-b92f-11ed-9c54-a9ebd1a1f32a,PWC- PricewaterhouseCoopers AS,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees
+413,6e78222b-9df5-11ef-a80f-179817213e61,QlikTech International AB.,zejia-mold.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+413,6e78222b-9df5-11ef-a80f-179817213e61,QLIKTECH INTERNATIONAL AB.,,,10.0,,missing website; missing or 0 revenue; missing sector; no contact info; missing geolocation
+413,6e78222b-9df5-11ef-a80f-179817213e61,QLIKTECH INTERNATIONAL MARKETS AB.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+413,6e78222b-9df5-11ef-a80f-179817213e61,Qlik,m88duwang31.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+413,6e78222b-9df5-11ef-a80f-179817213e61,QlikView,qlikviewdl.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,Dynasylan,silfin.de,,,Raw Materials,missing or 0 revenue; missing or 0 employees; missing geolocation
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,Oregon Youth Developmentcouncil,oregonyouthdevelopmentcouncil.org,,,Other Consumer Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,Qualtrics,nmfe.co,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; missing geolocation
+415,290f11d8-9f7b-11ec-a15f-3d38c1a422d7,Qualtrics LLC.,,1300000000.0,,IT&C Services,missing website; missing or 0 employees
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,QuestBack Singapore,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,Questback Group,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,QB Salespulse,qbsalespulse.com,2400000.0,1.0,,missing sector
+416,e6d9287a-93e4-11eb-be3a-7f925cb94351,Questback,questback.wordpress.com,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+418,d107ada1-93e4-11eb-8859-29e7c34dee35,Rajah & Tann Asia,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+418,d107ada1-93e4-11eb-8859-29e7c34dee35,Novusdemia,novusdemia.com,,,Education,missing or 0 revenue; missing or 0 employees; missing geolocation
+423,13d6cc27-93e5-11eb-8474-3bbe2d07207d,Oslo Relocation,oslorelocation.no,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees
+423,13d6cc27-93e5-11eb-8474-3bbe2d07207d,Relocation West AS,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees
+423,13d6cc27-93e5-11eb-8474-3bbe2d07207d,NFB Relocation Services AS,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees
+428,83718e53-1b00-11ec-a945-71766a416f0a,Rittal GmbH & Co. KG.,vorsprung-schaltschrankbau.de,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+428,83718e53-1b00-11ec-a945-71766a416f0a,Rittal A/S.,rittal.dk,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+428,83718e53-1b00-11ec-a945-71766a416f0a,Rittal,rittal.co.th,32700000.0,,Electronics & Appliances,missing or 0 employees
+428,83718e53-1b00-11ec-a945-71766a416f0a,Rittal SEA,rittal-sea.com,,,Raw Materials,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+428,83718e53-1b00-11ec-a945-71766a416f0a,Rittal,rittal.com,2681681152.0,12000.0,Resources & Energy,missing geolocation
+431,5d42a8d2-f9d6-11ec-be61-8fd2b29bbf2d,Sagemcom Broadband SAS.,sherproductions.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+431,5d42a8d2-f9d6-11ec-be61-8fd2b29bbf2d,Sagemcom,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+431,5d42a8d2-f9d6-11ec-be61-8fd2b29bbf2d,Sagemcom,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+431,5d42a8d2-f9d6-11ec-be61-8fd2b29bbf2d,Sagemcom,sagemcom.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+431,5d42a8d2-f9d6-11ec-be61-8fd2b29bbf2d,Sagemcom livraison,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+432,e1d91d63-e674-11ec-8ac8-377cee3b877e,Sailpoint Consulting Services,sailpointabroad.com,395697.0,75.0,Education,missing geolocation
+432,e1d91d63-e674-11ec-8ac8-377cee3b877e,Sailpoint Technologies,francescodibenedetto.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+432,e1d91d63-e674-11ec-8ac8-377cee3b877e,SAILPOINT TECHNOLOGIES,sailpointt.xyz,,,"Apparel, Accessories & Footwear",missing or 0 revenue; missing or 0 employees
+432,e1d91d63-e674-11ec-8ac8-377cee3b877e,Base 2 Advance,base2advance.com,,,Education,missing or 0 revenue; missing or 0 employees; missing geolocation
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,GNEX,gnex.com.my,,,Transport & Warehousing,missing or 0 revenue; missing or 0 employees
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,Saluran Intelek Sdn. Bhd.,,,,Other Capital Goods,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,Saluran Cekap M Sdn Bhd.,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+436,b1e580a1-583d-11ec-91ee-edc6c109839b,Saluran Terbuka Universiti,saluranterbukauni.my,,,Education,missing or 0 revenue; missing or 0 employees; missing geolocation
+437,2d6323ad-1afe-11ec-be37-19557aad561c,Samsung Electronics Nordic AB.,,,,Electronics & Appliances,missing website; missing or 0 revenue; missing or 0 employees
+437,2d6323ad-1afe-11ec-be37-19557aad561c,Swedish Match,swedishmatch.com,1773133184.0,7523.0,Other Nondurable Products,missing geolocation
+437,2d6323ad-1afe-11ec-be37-19557aad561c,Samsung Music Galaxy,musicgalaxy.fi,94735696.0,150.0,Publishers & Media Companies,missing geolocation
+440,06bef23d-ae8e-11ef-9eca-7fabbf10324c,SAS CTRL AS,sas-ctrl.no,,,Architecture & Engineering Services,missing or 0 revenue; missing or 0 employees
+440,06bef23d-ae8e-11ef-9eca-7fabbf10324c,SAS Institute,sasinstitute.in,,,Education,missing or 0 revenue; missing or 0 employees; missing geolocation
+441,1930e241-93e5-11eb-b5f6-816dd10ac7b0,Saville Consulting Danmark,savilleconsulting.dk,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+441,1930e241-93e5-11eb-b5f6-816dd10ac7b0,SJEC,sjecdanmark.dk,,,Other Capital Goods,missing or 0 revenue; missing or 0 employees
+442,0252d979-93e5-11eb-8859-29e7c34dee35,SJEC,sjecdanmark.dk,,,Other Capital Goods,missing or 0 revenue; missing or 0 employees
+442,0252d979-93e5-11eb-8859-29e7c34dee35,Schneider Electric A/S.,se-app.dk,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+442,0252d979-93e5-11eb-8859-29e7c34dee35,Schneider Electric Denmark A/S.,studiecd.dk,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+446,1480474d-0f0f-11ec-8a23-693097da349a,Shandong Faithwit Power Sources Co. Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+446,1480474d-0f0f-11ec-8a23-693097da349a,Sacred Sun,sacredsun.com,,,Other Nondurable Products,missing or 0 revenue; missing or 0 employees; missing geolocation
+446,1480474d-0f0f-11ec-8a23-693097da349a,Shandong Sacred Sun Power Sources,sacred-sun-sp12-100.ru,,,Other Nondurable Products,missing or 0 revenue; missing or 0 employees; missing geolocation
+446,1480474d-0f0f-11ec-8a23-693097da349a,Qufu Shaolin Kung Fu School,shaolinskungfuschool.com,204504.0,3.0,"Arts, Entertainment & Recreation",missing geolocation
+459,b4f0991a-2de9-11ed-9aba-99765e777111,Empresa de Servicios Sipm,sipm.es,2136174.0,13.0,Construction,missing geolocation
+459,b4f0991a-2de9-11ed-9aba-99765e777111,SIPM - Société IHEB des Portes Motorisées,sipm.tn,,,Building Products,missing or 0 revenue; missing or 0 employees; missing geolocation
+459,b4f0991a-2de9-11ed-9aba-99765e777111,SIPM,sipm.mx,6225939.0,75.0,Other Capital Goods,missing geolocation
+461,8a5c3f6b-93e4-11eb-be3a-7f925cb94351,Skycall,,,,Accommodation & Food Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+461,8a5c3f6b-93e4-11eb-be3a-7f925cb94351,SkyCall,skycall-master.me,,1.0,,missing or 0 revenue; missing sector; no contact info; missing geolocation
+461,8a5c3f6b-93e4-11eb-be3a-7f925cb94351,Sky Call Centers,skycall.com.tr,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; missing geolocation
+465,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,SNOW SOFTWARE,snowsoftware.com,30530578.0,150.0,IT&C Services,missing geolocation
+465,d7fdc096-93e4-11eb-86dd-ffbd1b53140e,Snow Mix AB.,,,,"Arts, Entertainment & Recreation",missing website; missing or 0 revenue; missing or 0 employees
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,Snow Gale Labs,snowgalelabs.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info
+466,5516dd90-aaf0-11ef-baa5-b1d00e182d98,Snow Software ApS.,snow-software.cc,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+469,a8d13f95-fadf-11ed-93f3-afa2c9910533,SoftwareONE Norge AS,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+469,a8d13f95-fadf-11ed-93f3-afa2c9910533,SoftwareONE Norway,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+469,a8d13f95-fadf-11ed-93f3-afa2c9910533,SoftwareOne,softwareone.pro,,6.0,IT&C Services,missing or 0 revenue; no contact info; missing geolocation
+469,a8d13f95-fadf-11ed-93f3-afa2c9910533,SoftwareOne,softwareone.digital,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+473,04ec320a-18fe-11f0-b4d0-096f959c77d2,Southern Cable,southerncable.com.my,1214097.0,150.0,Electronics & Appliances,missing geolocation
+473,04ec320a-18fe-11f0-b4d0-096f959c77d2,Cable Engineering Sdn. Bhd.,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+473,04ec320a-18fe-11f0-b4d0-096f959c77d2,Southern Nine Sdn. Bhd.,southernnine.com,,,Building Products,missing or 0 revenue; missing or 0 employees
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,Starseed Technologies S Pte. Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,MALIFAX TECHNOLOGIES,malifax.com.sg,21381902.0,40.0,IT&C Services,missing geolocation
+479,0f34c0d7-197b-11ef-bb50-ff355101f6ca,Starseed Technologies,,,,Resources & Energy,missing website; missing or 0 revenue; missing or 0 employees
+480,38fea658-f90b-11ee-a0bc-b93cf9a41d3a,Stena Recycling AB.,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+480,38fea658-f90b-11ee-a0bc-b93cf9a41d3a,Stena Recycling AB - Jönköping,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+480,38fea658-f90b-11ee-a0bc-b93cf9a41d3a,Stena Recycling AB - Skara,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+480,38fea658-f90b-11ee-a0bc-b93cf9a41d3a,Stena Recycling AB - Lidköping,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+480,38fea658-f90b-11ee-a0bc-b93cf9a41d3a,Stena Recycling AB - Tingstad,,,,Architecture & Engineering Services,missing website; missing or 0 revenue; missing or 0 employees
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,Storm group AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,Storm Properties,storm-properties.squarespace.com,,,Construction,missing or 0 revenue; missing or 0 employees
+481,778a3f93-f35c-11ee-a2cf-e34c0e809adb,STORM Marketing As,,,,Advertising & Marketing,missing website; missing or 0 revenue; missing or 0 employees
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,Sutera Kaseh cake house,,,,Food & Beverages,missing website; missing or 0 revenue; missing or 0 employees
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,Sutera Reka Engineering Sdn Bhd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,McDonald's Taman Sutera Utama,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,Sutera Utama Sdn. Bhd.,sutera.my,,30.0,,missing or 0 revenue; missing sector
+484,43f5c0a1-a7e2-11ed-9443-77059af26349,Payung Sutera Utama Sdn Bhd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+494,ef6e1e50-93e4-11eb-8ad6-7326edce8d21,Vågsmyra Legesenter,vagsmyralegesenter.no,,,Health Care & Social Assistance,missing or 0 revenue; missing or 0 employees
+494,ef6e1e50-93e4-11eb-8ad6-7326edce8d21,Tampnet,tampnet.ind.br,,,Raw Materials,missing or 0 revenue; missing or 0 employees
+499,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,Tirana Center of Technology,tct.edu.al,1316287.0,75.0,Education,missing geolocation
+499,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,TCT,tct-us.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+499,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,Mobile Tech International HK Co Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+499,9aa73fcc-2bbb-11ef-90fc-49e996ebd993,TCT Asia,tct-electronics.com,1826593.0,3.0,Electronics & Appliances,missing geolocation
+506,04a78940-19a9-11ee-aec0-a1af3c434505,Singapore Telecom Clinic,,,,Health Care & Social Assistance,missing website; missing or 0 revenue; missing or 0 employees
+506,04a78940-19a9-11ee-aec0-a1af3c434505,Nice Telecom,nicetele.com,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees
+506,04a78940-19a9-11ee-aec0-a1af3c434505,Telecom Equipment Pte Ltd.,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+507,005ce289-9a7b-11ef-8d84-8d1c2933c379,Telekom Malaysia Pasir Puteh TM,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+507,005ce289-9a7b-11ef-8d84-8d1c2933c379,Telekom Malaysia,tm.com.my,2683290112.0,24000.0,IT&C Services,missing geolocation
+507,005ce289-9a7b-11ef-8d84-8d1c2933c379,TM Global,tmglobal.com.my,17037788.0,250.0,IT&C Services,missing geolocation
+507,005ce289-9a7b-11ef-8d84-8d1c2933c379,Telekom Malaysia Berhad Sundar,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+507,005ce289-9a7b-11ef-8d84-8d1c2933c379,TELEKOM MALAYSIA BERHAD INANAM EXCHANGE,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+509,b70157e3-8bb4-11ee-bafd-2110635ddb21,Telenor shop Narvik,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+509,b70157e3-8bb4-11ee-bafd-2110635ddb21,Telenor ASA.,inwa777apk.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+509,b70157e3-8bb4-11ee-bafd-2110635ddb21,Telenor packages,telenorpackages.com.pk,1363649.0,150.0,IT&C Services,no contact info; missing geolocation
+509,b70157e3-8bb4-11ee-bafd-2110635ddb21,Nokia sale,telecommobilesnews.wordpress.com,,1.0,IT&C Services,missing or 0 revenue; no contact info; missing geolocation
+511,f0d7e780-93e4-11eb-8e19-198fb02d6f96,Nokia sale,telecommobilesnews.wordpress.com,,1.0,IT&C Services,missing or 0 revenue; no contact info; missing geolocation
+511,f0d7e780-93e4-11eb-8e19-198fb02d6f96,Telenor Connexion,telenorconnexion.com,13600000.0,,,missing or 0 employees; missing sector; missing geolocation
+511,f0d7e780-93e4-11eb-8e19-198fb02d6f96,Telenor Inpli AB.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+519,4df951dc-2cfa-11ef-96db-335e17d831d9,Telenor shop Narvik,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees
+519,4df951dc-2cfa-11ef-96db-335e17d831d9,GGS,ggs.no,44621656.0,150.0,Architecture & Engineering Services,missing geolocation
+519,4df951dc-2cfa-11ef-96db-335e17d831d9,Global transport services AS,,,,Transport & Warehousing,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+519,4df951dc-2cfa-11ef-96db-335e17d831d9,Telenor Cloud services AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+521,f78e0b4a-93e4-11eb-9937-4fab995bf8ff,Telenor Norge AS avd Lødingen,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+521,f78e0b4a-93e4-11eb-9937-4fab995bf8ff,Telenor Norge As Avd Skien,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info
+521,f78e0b4a-93e4-11eb-9937-4fab995bf8ff,Telenor Norge AS avd Sarpsborg,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+522,b69c114f-93e4-11eb-b4a6-27899be4e45d,Telenor Pakistan Commercial Office Rahim Yar Khan,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+522,b69c114f-93e4-11eb-b4a6-27899be4e45d,Telenor packages,telenorpackages.com.pk,1363649.0,150.0,IT&C Services,no contact info; missing geolocation
+522,b69c114f-93e4-11eb-b4a6-27899be4e45d,Telenor Pakistan Data Center Karachi,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,Telenor Software Lab AS TSL,minepapir.no,,,Other Capital Goods,missing or 0 revenue; missing or 0 employees; missing geolocation
+526,dbe2248f-aba6-11ef-b6d6-0b609ebb973a,New York Software Lab,nysoftwarelab.com,1180919.0,4.0,IT&C Services,missing geolocation
+528,a84b4151-0da2-11ec-9b20-fda7bd57cf2c,Odense Byguide,tilodense.dk,,,Accommodation & Food Services,missing or 0 revenue; missing or 0 employees
+528,a84b4151-0da2-11ec-9b20-fda7bd57cf2c,Aller Leisure,allerleisure.com,29074180.0,150.0,Other Consumer Services,missing geolocation
+528,a84b4151-0da2-11ec-9b20-fda7bd57cf2c,SPORTSON,sportson.dk,,,Toys & Sporting Goods,missing or 0 revenue; missing or 0 employees
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,Gemalto,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,Victor R. Ocampo,vrocampo.wordpress.com,,1.0,Blogs & Publications,missing or 0 revenue; no contact info; missing geolocation
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,Gemalto Norge AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+533,88ebf1ce-3a02-11ee-94b5-fd90c5a93d00,Line マンガ,investmentwing-es.net,,,Finance & Insurance,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+537,e8cae664-93e4-11eb-b89f-536884b3e7dd,TINEX Globe AS,,,1.0,Architecture & Engineering Services,missing website; missing or 0 revenue; no contact info
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,Tongyu Auto Parts,,,,Automotive,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,Tongyu Co. Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,Tongyu Curtain Products,,,,Home Products,missing website; missing or 0 revenue; missing or 0 employees
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,Tongyu Communication,tongyucom.com,,,Electronics & Appliances,missing or 0 revenue; missing or 0 employees; missing geolocation
+539,2b94d4a1-93e5-11eb-b89f-536884b3e7dd,Tongyu communication,tycc.cn,177100000.0,35.0,Electronics & Appliances,missing geolocation
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,Transmode Logistics,transmode.co.uk,12951546.0,75.0,Transport & Warehousing,missing geolocation
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,Transmode,transmode.se,15265289.0,75.0,IT&C Services,no contact info; missing geolocation
+543,7422ed1e-5e29-11ef-90a8-8b966e020cd1,TRANSMODE SYSTEMS AB.,,,1.0,,missing website; missing or 0 revenue; missing sector; no contact info; missing geolocation
+551,7c32e6cb-5bf1-11ef-9278-432c00859ce8,TXO Optics,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+551,7c32e6cb-5bf1-11ef-9278-432c00859ce8,TXO Systems Ltd.,,37300000.0,,,missing website; missing or 0 employees; missing sector; missing geolocation
+551,7c32e6cb-5bf1-11ef-9278-432c00859ce8,Txo,volkswagentouaregz.ml,,,Advertising & Marketing,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+551,7c32e6cb-5bf1-11ef-9278-432c00859ce8,TXO plc.,txoplc.com,,75.0,Resources & Energy,missing or 0 revenue; missing geolocation
+556,e5d58700-d139-11ec-90aa-d5cfd1428197,U-tel,,,,Other Professional Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+556,e5d58700-d139-11ec-90aa-d5cfd1428197,UTEL,utel-licenciaturas.com,,75.0,Education,missing or 0 revenue; no contact info; missing geolocation
+556,e5d58700-d139-11ec-90aa-d5cfd1428197,Utel systems AS,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,VERTIV CHAKAN PLANT,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,Vertiv Energy Pvt Ltd Noida,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,Vertiv Energy Private Limited,,,,Construction,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+560,3dab2b4c-b0d3-11ef-95f9-0de7499436cf,Vertiv Energy Private Limited वर्टिव एनर्जी प्राइवेट लिमिटेड,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+568,554b36c9-cde9-11ed-9413-23dad132474c,Waystream Signs,waystreamsigns.com,,75.0,Other Capital Goods,missing or 0 revenue; no contact info; missing geolocation
+568,554b36c9-cde9-11ed-9413-23dad132474c,Waystream,waystre.am,,75.0,Publishers & Media Companies,missing or 0 revenue; no contact info; missing geolocation
+568,554b36c9-cde9-11ed-9413-23dad132474c,Waystream,waystream.com,7125512.0,20.0,IT&C Services,missing geolocation
+568,554b36c9-cde9-11ed-9413-23dad132474c,WayStream,waystream.buzz,,,Publishers & Media Companies,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+571,4e1ff27b-1afc-11ec-ba40-29b1c5bdeb83,Wipro Limited,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+571,4e1ff27b-1afc-11ec-ba40-29b1c5bdeb83,Wipro Limited,,,20000.0,Architecture & Engineering Services,missing website; missing or 0 revenue; missing geolocation
+571,4e1ff27b-1afc-11ec-ba40-29b1c5bdeb83,WIPRO,wipro.com,10847121408.0,234054.0,IT&C Services,implausibly high employee count
+571,4e1ff27b-1afc-11ec-ba40-29b1c5bdeb83,Wipro Limited,wiprolimited.in,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+571,4e1ff27b-1afc-11ec-ba40-29b1c5bdeb83,Wipro Limited,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+575,7eae49b8-93e4-11eb-8e19-198fb02d6f96,Better workday,abetterworkday.com,328133.0,1.0,Education,missing geolocation
+575,7eae49b8-93e4-11eb-8e19-198fb02d6f96,Workday UK Limited,shungeer.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+575,7eae49b8-93e4-11eb-8e19-198fb02d6f96,Workday Limited.,edmontoninfocenter.com,,,Publishers & Media Companies,missing or 0 revenue; missing or 0 employees
+575,7eae49b8-93e4-11eb-8e19-198fb02d6f96,Workday,workday.github.io,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+575,7eae49b8-93e4-11eb-8e19-198fb02d6f96,Work All Day,workalldays.com,,,Other Professional Services,missing or 0 revenue; missing or 0 employees
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,WTW Real Estate Sdn. Bhd.,,,,Real Estate,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,WTW Real Estate Sdn. Bhd.,waterside-realty.com,,,,missing or 0 revenue; missing or 0 employees; missing sector; no contact info; missing geolocation
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,WTW Real Estate Sabah Sdn. Bhd.,,,,Real Estate,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+576,b80b9753-17de-11ee-b9eb-93f77cdb42f2,Tsukamoto Musen,wtw.support,14789040.0,75.0,Electronics & Appliances,missing geolocation
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,xIT Software,xit-software.dk,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,XIT Software,xit-software.com,,,IT&C Services,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,X-IT,x-it.io,,,IT&C Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,XiT,x-it.nl,,,IT&C Services,missing or 0 revenue; missing or 0 employees
+577,ae1ecc30-0c00-11ec-882c-e7dd96ffa691,X IT,roegfrifremtid.dk,,,Education,missing or 0 revenue; missing or 0 employees
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,Yangtze Optical Fibre and Cable Joint Stock Limited Company YOFC,,49399876.0,420.0,IT&C Services,missing website; no contact info; missing geolocation
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,Yangtze Optical Fibre and Cable Joint Stock,yofc.com.cn,,,Pharmaceuticals & Cosmetics,missing or 0 revenue; missing or 0 employees; no contact info; missing geolocation
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,Yangtze Optical Fibre and Cable Co. Ltd.,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; no contact info
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,Yangtze River Xianyu Building,,,,Accommodation & Food Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+578,c9fbf78c-8b5f-11ec-9e94-331f9459c7f5,YOFC,yofc.com,2000000000.0,150.0,Electronics & Appliances,missing geolocation
+580,1965cb44-f87f-11ed-ab94-9d382b3b5926,Zalaris,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees
+580,1965cb44-f87f-11ed-ab94-9d382b3b5926,NordicLux,nordiclux.dk,,,Pharmaceuticals & Cosmetics,missing or 0 revenue; missing or 0 employees
+580,1965cb44-f87f-11ed-ab94-9d382b3b5926,Zalaris HR Services Danmark A/S.,zalaris.dk,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; no contact info
+583,12e5a0a4-f5c3-11ed-88cc-c9466c597c9c,ZALARIS,zalaris.de,96000000.0,30.0,Finance & Insurance,missing geolocation
+583,12e5a0a4-f5c3-11ed-88cc-c9466c597c9c,Zalaris,,,,Finance & Insurance,missing website; missing or 0 revenue; missing or 0 employees
+583,12e5a0a4-f5c3-11ed-88cc-c9466c597c9c,Zalaris HR Services Sverige AB.,zalaris.se,,,,missing or 0 revenue; missing or 0 employees; missing sector
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,ZTE Corporation Hangzhou Office,,,,,missing website; missing or 0 revenue; missing or 0 employees; missing sector; missing geolocation
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,ZTE Corporation,agendadigitalsre.space,,,Other Professional Services,missing or 0 revenue; missing or 0 employees; missing geolocation
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,Kandatel semarang,datainternet.blogspot.com,33872.0,1.0,IT&C Services,no contact info; missing geolocation
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,ZTE CORPORATION,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees; missing geolocation
+590,3a852200-1b06-11ec-ae98-5d8c88c64981,ZTE Corporation Bangladesh Limited,,,,IT&C Services,missing website; missing or 0 revenue; missing or 0 employees
