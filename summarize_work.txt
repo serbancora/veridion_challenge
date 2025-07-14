@@ -1,0 +1,42 @@
+1. Understanding the Problem
+
+- The client needs a clean supplier list to support spend analysis and future sustainability scoring.
+- The raw data contains messy names and inconsistent metadata.
+- Matching blindly would create false positives, so I prioritized precision.
+
+2. Entity Resolution Approach
+
+- I grouped each original supplier (input_row_key) and evaluated its 1–5 candidate matches.
+- I used fuzz.token_sort_ratio to calculate fuzzy match scores between the input name and each candidate company_name.
+- I selected the best match only if the score was >= 85, a threshold chosen to ensure high confidence.
+- For each row, I recorded the selected veridion_id and the match reason (e.g., fuzzy match score: 92.14).
+- If no match passed the threshold, I left it blank and labeled it as no confident match.
+
+3. Data Quality Control
+
+- After selecting matches, I merged the results with the full candidate metadata.
+- I flagged entries missing critical information: website, revenue, employee count, business sector, contact info, and geolocation.
+- I also flagged companies with implausibly high employee counts (>100,000) and 0 revenue — simulating the kind of anomalies that could mislead a client dashboard.- 
+- I exported a qc_flags.csv file containing only the problematic rows and the specific issues for each.
+
+4. Observations
+
+- Out of 592 supplier queries, 174 were matched confidently (29.39%).
+- Many matched entries had at least one significant data issue — mostly missing revenue or website.
+- Many supplier names were too vague or abbreviated to match confidently, highlighting the value of Veridion’s structured data.
+
+5. Outcome
+
+I delivered two files:
+- resolved_matches.csv with the best Veridion match (or none) per supplier
+- qc_flags.csv with flagged quality issues for follow-up
+
+All logic and outputs are documented in the README.md and supported by reproducible Python scripts.
+
+
+
+
+
+
+
+
